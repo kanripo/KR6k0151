@@ -1,12 +1,12 @@
 # -*- mode: mandoku-view; -*-
-#+DATE: 2016-06-08 16:19
+#+DATE: 2016-06-08 16:20
 #+TITLE: 重治毗尼事義集要
 #+PROPERTY: CBETA_ID X40n0719
 #+PROPERTY: ID KR6k0151
 #+PROPERTY: SOURCE 卍 Xuzangjing Vol. 40, No. 719
 #+PROPERTY: VOL 40
 #+PROPERTY: BASEEDITION X
-#+PROPERTY: WITNESS master
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6k0151_X_002-0358b> ¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 2
 ¶
@@ -647,7 +647,7 @@
 若懷姙。必傷其母。¶
 
 毗舍羅
-或云毗耶離。維耶離。鞞舍隸。吠舍離。此¶
+或云毗耶離。維耶離。[鞥-合+(白-日+田)]舍隸。吠舍離。此¶
 翻廣嚴。亦翻好稻。亦翻好道也。¶
 
 迦蘭陀

@@ -1,12 +1,12 @@
 # -*- mode: mandoku-view; -*-
-#+DATE: 2016-06-08 16:19
+#+DATE: 2016-06-08 16:20
 #+TITLE: 重治毗尼事義集要
 #+PROPERTY: CBETA_ID X40n0719
 #+PROPERTY: ID KR6k0151
 #+PROPERTY: SOURCE 卍 Xuzangjing Vol. 40, No. 719
 #+PROPERTY: VOL 40
 #+PROPERTY: BASEEDITION X
-#+PROPERTY: WITNESS master
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6k0151_X_007-0397b> ¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 7
 ¶
@@ -589,7 +589,7 @@
 丘。無病。過兩三鉢受。持還至僧伽藍中。不分與餘比¶
 丘食者。波逸提。」¶
 
-【緣　舍衛國大村女。嫁鬱禪國。逸父母家。施比丘¶
+【緣　舍衛國大村女。嫁[鬱-山+止]禪國。逸父母家。施比丘¶
 食。其夫呼還。因諸比丘盡取其食。方更辦具。其夫¶
 巳更取婦。又波羅柰城外。眾商賈車伴共宿。有比¶
 丘於一信樂商賈處得食。展轉告餘比丘。乞令食¶
